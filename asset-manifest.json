@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scientific_Calculator/static/css/main.6845474b.css",
+    "main.js": "/scientific_Calculator/static/js/main.caefd58a.js",
+    "static/js/453.aeca3443.chunk.js": "/scientific_Calculator/static/js/453.aeca3443.chunk.js",
+    "index.html": "/scientific_Calculator/index.html",
+    "main.6845474b.css.map": "/scientific_Calculator/static/css/main.6845474b.css.map",
+    "main.caefd58a.js.map": "/scientific_Calculator/static/js/main.caefd58a.js.map",
+    "453.aeca3443.chunk.js.map": "/scientific_Calculator/static/js/453.aeca3443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6845474b.css",
+    "static/js/main.caefd58a.js"
+  ]
+}
