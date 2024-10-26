@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
-import { evaluate } from 'mathjs'; // Use mathjs for complex calculations
+import { evaluate } from 'mathjs';
 import './App.css';
+import backgroundVideo from './assets/bg1.mp4'; // Import the video file
 
 function App() {
   const [expression, setExpression] = useState(''); // Current input expression
@@ -52,9 +53,10 @@ function App() {
 
   return (
     <div className="app">
-      {/* Use video tag for a background video */}
+      {/* Video Background */}
       <video autoPlay loop muted playsInline className="video-bg">
-        <source src="/bg.mp4" type="video/mp4" />
+        <source src={backgroundVideo} type="video/mp4" />
+        Your browser does not support the video tag.
       </video>
 
       {/* Calculator Container */}
