@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/scientific_Calculator/static/css/main.6845474b.css",
-    "main.js": "/scientific_Calculator/static/js/main.caefd58a.js",
+    "main.css": "/scientific_Calculator/static/css/main.2dc52f8f.css",
+    "main.js": "/scientific_Calculator/static/js/main.cc83fa76.js",
     "static/js/453.aeca3443.chunk.js": "/scientific_Calculator/static/js/453.aeca3443.chunk.js",
+    "static/media/bg1.mp4": "/scientific_Calculator/static/media/bg1.8af391f29909b1b13ce1.mp4",
     "index.html": "/scientific_Calculator/index.html",
-    "main.6845474b.css.map": "/scientific_Calculator/static/css/main.6845474b.css.map",
-    "main.caefd58a.js.map": "/scientific_Calculator/static/js/main.caefd58a.js.map",
+    "main.2dc52f8f.css.map": "/scientific_Calculator/static/css/main.2dc52f8f.css.map",
+    "main.cc83fa76.js.map": "/scientific_Calculator/static/js/main.cc83fa76.js.map",
     "453.aeca3443.chunk.js.map": "/scientific_Calculator/static/js/453.aeca3443.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6845474b.css",
-    "static/js/main.caefd58a.js"
+    "static/css/main.2dc52f8f.css",
+    "static/js/main.cc83fa76.js"
   ]
 }
